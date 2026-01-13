@@ -132,3 +132,23 @@
     align-items: center;
     justify-content: center;border-radius: 99%;
  }
+
+ .division{
+    display: flex;
+    max-width: 1350px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 80px;
+ }
+
+ .hh{
+    font-size: xx-large;
+    font-size: 45px;
+    font-weight: bolder;
+ }
+
+ h6{
+    display: flex;
+    align-items: center;
+ }
