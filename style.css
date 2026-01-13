@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 2px;
+    max-width: 100%;
 }
 
 .navbar{
@@ -75,4 +76,59 @@
     border-style: solid;
 
 
+ }
+ .h{
+    color: rgba(5, 5, 5, 0.904);
+    font-weight: bolder;
+    font-size: xx-large;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    font-size: 45px;
+ }
+
+ section{align-items: center;
+    justify-content: center;
+    
+ }
+
+
+ .pera2{
+    text-align: center;
+ }
+ .divition{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    width: 1350px;
+    
+ }
+ .card{
+    
+    border: 5px solid(29, 17, 2) 8px;
+    display: flex,table-column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    
+    background-color: oldlace;
+    padding: 40px 30px;
+    display:collumn;
+    height: 150px;
+    
+    
+ }
+ img{
+    align-items: center;
+    justify-content: center;
+
+ }
+ .card img{
+    background-color: red;
+    align-items: center;
+    justify-content: center;border-radius: 99%;
  }
